@@ -1,0 +1,60 @@
+15:04:58.990 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\SeleniumPracticeMarch\DataDrivenFramework\grouping.xml
+
+15:05:08.122 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+15:05:08.434 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+15:05:09.616 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+15:05:09.630 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+15:05:13.574 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+15:05:24.007 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+16:04:34.941 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\test-output\testng-failed.xml"
+16:04:35.819 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\SeleniumPracticeMarch\DataDrivenFramework\test-output\testng-failed.xml
+
+16:04:44.823 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+16:06:07.568 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\test-output\testng-failed.xml"
+16:06:08.244 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\SeleniumPracticeMarch\DataDrivenFramework\test-output\testng-failed.xml
+
+16:06:16.002 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+16:06:19.053 [main] INFO  testCases.TC002_LoginTest - ********Finished TC002_LoginTest*******
+18:06:59.436 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\test-output\testng-failed.xml"
+18:07:01.360 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\SeleniumPracticeMarch\DataDrivenFramework\test-output\testng-failed.xml
+
+18:07:15.516 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+18:07:19.600 [main] INFO  testCases.TC002_LoginTest - ********Finished TC002_LoginTest*******
+18:31:57.883 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml"
+18:32:00.539 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml
+
+18:32:25.802 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+18:32:26.384 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+18:32:27.424 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+18:32:27.473 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:32:30.528 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+18:32:35.046 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+18:32:38.260 [main] INFO  testCases.TC002_LoginTest - ********Finished TC002_LoginTest*******
+18:36:20.341 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml"
+18:36:21.356 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml
+
+18:36:29.962 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+18:36:30.293 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+18:36:31.097 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+18:36:31.113 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:36:34.613 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+18:36:39.947 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+18:36:42.812 [main] INFO  testCases.TC002_LoginTest - ********Finished TC002_LoginTest*******
+18:39:03.989 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml"
+18:39:04.514 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml
+
+18:39:10.585 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+18:39:10.839 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+18:39:11.652 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+18:39:11.665 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:39:14.979 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+18:39:18.503 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+18:39:21.254 [main] INFO  testCases.TC002_LoginTest - ********Finished TC002_LoginTest*******
+18:42:36.538 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\crossbrowsertesting.xml"

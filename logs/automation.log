@@ -1,0 +1,47 @@
+18:42:37.273 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\SeleniumPracticeMarch\DataDrivenFramework\crossbrowsertesting.xml
+
+18:42:49.210 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+18:42:50.015 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+18:42:54.798 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+18:42:54.805 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:43:00.866 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+18:43:02.169 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+18:43:03.285 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+18:43:03.287 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:43:05.983 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+19:09:21.192 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml"
+19:09:21.900 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml
+
+19:09:30.740 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+19:09:31.466 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+19:09:32.415 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+19:09:32.430 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+19:09:35.904 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+19:09:40.407 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+19:09:43.087 [main] INFO  testCases.TC002_LoginTest - ********Finished TC002_LoginTest*******
+18:01:43.240 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml"
+18:01:55.226 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+18:01:55.987 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+18:01:57.144 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+18:01:57.223 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+18:02:00.432 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+18:02:06.742 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+18:02:10.069 [main] INFO  testCases.TC002_LoginTest - ********Finished TC002_LoginTest*******
+16:06:10.032 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml"
+16:06:20.476 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+16:06:20.909 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+16:06:21.711 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+16:06:21.725 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+16:06:25.062 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+16:06:29.293 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+16:06:32.233 [main] INFO  testCases.TC002_LoginTest - ********Finished TC002_LoginTest*******
+17:04:22.101 [main] DEBUG org.testng.TestNG - suiteXmlPath: "E:\SeleniumPracticeMarch\DataDrivenFramework\master.xml"
+17:04:28.940 [main] INFO  testCases.TC001_AccountRegistrationTest - ***Starting TC001_AccountRegistrationTest **** 
+17:04:29.321 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my account link
+17:04:30.143 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked my Register link
+17:04:30.162 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details
+17:04:33.740 [main] INFO  testCases.TC001_AccountRegistrationTest - ****Finished TC001_AccountRegistrationTest****
+17:04:38.308 [main] INFO  testCases.TC002_LoginTest - ***Starting TC002_LoginTest********
+17:04:42.393 [main] INFO  testCases.TC002_LoginTest - ********Finished TC002_LoginTest*******
